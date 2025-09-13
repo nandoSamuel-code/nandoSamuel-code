@@ -37,9 +37,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🛒 [Online Clothing Store](#) | Ecommerce store built on **Shopify** | Shopify |
-| 🌐 [Landing Page - Minimalist](#) | Modern landing page, fully responsive | HTML + CSS |
-| 💼 [Functional Ecommerce](#) | WordPress site with WooCommerce integration | WordPress |
+| 🛒 [Treads Store](https://treads.com.ar/) | Shopify-based online store with modern UI and full ecommerce functionality | **Shopify** |
+| 🌐 [Globand Consulting](https://globand.com.ar/) | Business consulting website with clean and professional design | **WordPress** |
+| 💼 [Functional Ecommerce](#) | WordPress site with WooCommerce integration | **WooCommerce** |
 
 ---
 
@@ -76,3 +76,4 @@
 </p>
 
 ⭐️ From [nandoSamuel-code](https://github.com/nandoSamuel-code)  
+
