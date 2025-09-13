@@ -28,36 +28,35 @@
 ## 🚀 Skills & Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress,shopify,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress,shopify,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🛍️ Featured Projects  
+## 📂 Highlighted Projects  
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🛒 [Treads Store](https://treads.com.ar/) | Shopify-based online store with modern UI and full ecommerce functionality | **Shopify** |
-| 🌐 [Globand Consulting](https://globand.com.ar/) | Business consulting website with clean and professional design | **WordPress** |
-| 💼 [Functional Ecommerce](#) | WordPress site with WooCommerce integration | **WooCommerce** |
+| 🛒 [Treads Store](https://treads.com.ar/) | Shopify-based online store with custom theme setup and ecommerce optimization | **Shopify** |
+| 🌐 [Globand Consulting](https://globand.com.ar/) | Consulting website with a professional, modern layout and responsive design | **WordPress** |
+| 💼 Personal Portfolio (Coming soon) | Portfolio website to showcase my skills and projects | **HTML + CSS + JS** |
 
 ---
 
-## 📊 GitHub Analytics  
+## 💼 Professional Focus  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandoSamuel-code&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandoSamuel-code&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
+🔹 **Ecommerce Development:** Specialized in **Shopify & WordPress** stores.  
+🔹 **Frontend Expertise:** HTML, CSS, JavaScript with clean and responsive design.  
+🔹 **Consulting Projects:** Building modern websites for businesses and professionals.  
+🔹 **Conversion-Oriented Mindset:** I create websites that **don’t just look good, they sell**.  
 
 ---
 
-## 🔥 Streaks & Trophies  
+## 🎯 My Goals  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandoSamuel-code&theme=radical" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=nandoSamuel-code&theme=dracula&margin-w=15" height="150"/>
-</p>
+- 🌍 Help businesses grow with **modern digital presence**  
+- 📈 Optimize websites for **conversion and performance**  
+- 🚀 Keep learning and improving in **frontend frameworks** (React, Next.js)  
 
 ---
 
@@ -76,4 +75,5 @@
 </p>
 
 ⭐️ From [nandoSamuel-code](https://github.com/nandoSamuel-code)  
+
 
