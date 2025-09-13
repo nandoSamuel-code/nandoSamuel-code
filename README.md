@@ -29,8 +29,10 @@
 🔹 Always learning new tools and frameworks to **optimize user experience**.  
 
 💡 *"Code + Design = Perfect Digital Experience"*  
+
 ---
 
+<!-- 🔥 Banner con logos del stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
