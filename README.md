@@ -1,7 +1,14 @@
-<!-- Banner con SVG -->
+<!-- Banner principal con gradiente -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Nahuel%20Fernandez%20%7C%20Web%20Developer%20🚀&width=800&height=200" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:4C67ED&height=200&section=header&text=Nahuel%20Fernandez%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner"/>
 </p>
+
+<!-- Banner secundario con animación de texto -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C67ED&center=true&vCenter=true&width=800&lines=💻+Web+Developer;🚀+Shopify+%26+WordPress+Specialist;🌐+HTML+%7C+CSS+%7C+JavaScript;🎨+Responsive+Design+%26+User+Experience" alt="Typing Banner" />
+</p>
+
+---
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50">Nahuel Fernandez</span></h1>  
 <h3 align="center">💻 Web Developer | Shopify & WordPress Specialist | Frontend Enthusiast 🚀</h3>  
