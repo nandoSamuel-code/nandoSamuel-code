@@ -1,43 +1,78 @@
-# Hi there 👋, I'm Nahuel Fernandez  
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/SB4Wm7c/banner-github.gif" alt="Nahuel Fernandez Banner" width="100%" />
+</p>
 
-💻 **Web Developer | Shopify & WordPress Specialist | Frontend Enthusiast**  
+<h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50">Nahuel Fernandez</span></h1>  
+<h3 align="center">💻 Web Developer | Shopify & WordPress Specialist | Frontend Enthusiast 🚀</h3>  
 
-I build modern, responsive, and conversion-oriented websites.  
-Passionate about technology, design, and creating digital experiences that stand out.  
-
----
-
-## 🚀 Skills & Technologies  
-- 🌐 **Frontend:** HTML, CSS, JavaScript  
-- 🛒 **Ecommerce:** Shopify, WordPress, WooCommerce  
-- ⚙️ **Other tools:** Git, GitHub, SEO basics  
-- 🎨 **Focus:** Minimalist design, responsiveness, and user experience  
-
----
-
-## 📂 Featured Projects  
-✨ Here are some of my highlighted works:  
-
-- 🛍️ **[Online Clothing Store](#)** – Shopify  
-- 🌐 **[Landing Page - Minimalist Design](#)** – HTML & CSS  
-- 💼 **[Functional Ecommerce](#)** – WordPress + WooCommerce  
-
-*(Links can be replaced with real demos or repos when available)*  
+<p align="center">
+  <a href="mailto:melvox123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/nandoSamuel-code"><img src="https://img.shields.io/github/followers/nandoSamuel-code?label=Follow&style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoSamuel-code&show_icons=true&theme=radical)  
+## 🌟 About Me  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandoSamuel-code&layout=compact&theme=radical)  
+🔹 I build **modern, responsive, and conversion-focused websites**.  
+🔹 Specialized in **Shopify & WordPress Ecommerce Development**.  
+🔹 Strong passion for **Frontend Development (HTML, CSS, JavaScript)**.  
+🔹 Always learning new tools and frameworks to **optimize user experience**.  
+
+💡 *"Code + Design = Perfect Digital Experience"*  
+
+---
+
+## 🚀 Skills & Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress,shopify,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Contact Me  
-- ✉️ **Email:** melvox123@gmail.com  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](#)  
-- 🌐 **Portfolio Website (GitHub Pages):** [https://nandoSamuel-code.github.io/portfolio](https://nandoSamuel-code.github.io/portfolio)  
+## 🛍️ Featured Projects  
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛒 [Online Clothing Store](#) | Ecommerce store built on **Shopify** | Shopify |
+| 🌐 [Landing Page - Minimalist](#) | Modern landing page, fully responsive | HTML + CSS |
+| 💼 [Functional Ecommerce](#) | WordPress site with WooCommerce integration | WordPress |
 
 ---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandoSamuel-code&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandoSamuel-code&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 🔥 Streaks & Trophies  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandoSamuel-code&theme=radical" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nandoSamuel-code&theme=dracula&margin-w=15" height="150"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="mailto:melvox123@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nandoSamuel-code"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandoSamuel-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 ⭐️ From [nandoSamuel-code](https://github.com/nandoSamuel-code)  
