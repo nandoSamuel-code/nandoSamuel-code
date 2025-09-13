@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner con SVG -->
 <p align="center">
-  <img src="https://i.ibb.co/SB4Wm7c/banner-github.gif" alt="Nahuel Fernandez Banner" width="100%" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Nahuel%20Fernandez%20%7C%20Web%20Developer%20🚀&width=800&height=200" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50">Nahuel Fernandez</span></h1>  
@@ -75,5 +75,3 @@
 </p>
 
 ⭐️ From [nandoSamuel-code](https://github.com/nandoSamuel-code)  
-
-
